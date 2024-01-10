@@ -15,7 +15,7 @@ def home():
     <title>Welcome to Marek's Web App for PocToProd</title>
     </head>
     <body>
-        <h2>Welcome to Marek's Web App for PocToProd</h2>
+        <h2>Welcome to Marek's Web App for PocToProd </h2>
         <form action="/predict">
             <input type="submit" value="Go to Prediction" />
         </form>
